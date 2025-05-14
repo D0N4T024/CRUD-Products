@@ -1,0 +1,22 @@
+{
+  "productos": [
+    {
+      "id": "1",
+      "nombre": "Laptop",
+      "precio": 1200,
+      "cantidad": 5
+    },
+    {
+      "id": "2",
+      "nombre": "Mouse",
+      "precio": 25,
+      "cantidad": 10
+    },
+    {
+      "id": "3beb",
+      "nombre": "Audifonos",
+      "precio": "52",
+      "cantidad": "1"
+    }
+  ]
+}
