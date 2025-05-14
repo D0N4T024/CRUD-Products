@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/0cb8a02b-5f08-4343-ab06-212a6c7cdc20)
+
 # 📦 CRUD de Productos en React
 
 Una aplicación de gestión de productos con tabla, formularios modales para crear y editar, validación de datos, confirmación al eliminar, consumo de API simulada con JSON Server y tests automatizados.
